@@ -1,0 +1,10 @@
+name: ai-lab-g3-step1
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyter
+  - notebook
